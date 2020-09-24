@@ -1,0 +1,2 @@
+# AreaTriangulo
+resolução de exercício
